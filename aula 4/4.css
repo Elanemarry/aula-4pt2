@@ -1,0 +1,7 @@
+body{
+   text-align: center;
+   font-family: fantasy;
+   text-shadow: 5px 5px 5px green;
+   background: linear-gradient rgb(87, 27, 27) 
+   /*background: radial-gradient(green, red)*/
+}
